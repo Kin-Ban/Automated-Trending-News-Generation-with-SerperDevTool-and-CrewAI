@@ -5,9 +5,10 @@ This project showcases an automated system for generating trending news articles
 
 Key Features:
 
-Automated Workflow: Agents collaborate to research and write news articles autonomously, providing real-time results.
-Advanced Language Models: Uses Gemini Pro LLM for natural language generation, ensuring high-quality content.
-Real-Time Data Retrieval: Integrates SerperDevTool for up-to-date web searches.
-Markdown Output: Final articles are saved in markdown format for easy sharing and publishing.
-Scalable and Adaptable: Designed to handle various topics, with potential for expansion.
+1. Automated Workflow: Agents collaborate to research and write news articles autonomously, providing real-time results.
+2. Advanced Language Models: Uses Gemini Pro LLM for natural language generation, ensuring high-quality content.
+3. Real-Time Data Retrieval: Integrates SerperDevTool for up-to-date web searches.
+4. Markdown Output: Final articles are saved in markdown format for easy sharing and publishing.
+5. Scalable and Adaptable: Designed to handle various topics, with potential for expansion.
+
 This project demonstrates how AI can streamline the process of news generation, from research to publication, using cutting-edge tools and models.
